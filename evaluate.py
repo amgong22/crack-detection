@@ -50,7 +50,7 @@ for fname in matched:
 df = pd.DataFrame(results)
 df.to_csv(os.path.join(pred_dir, "evaluation_results.csv"), index=False)
 
-print("✅ Evaluation Complete")
+print("Evaluation")
 print(f"Mean IoU: {np.mean(ious):.4f}")
 print(f"Mean Dice: {np.mean(dices):.4f}")
 print(f"Mean Precision: {np.mean(precs):.4f}")
