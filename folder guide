@@ -1,0 +1,9 @@
+Folder: “Images” contains preprocessed IR images
+Folder: “Masks” contains ground truth of the IR Images
+Folder: “Kaggle Dataset”: contains some IR cracks
+Folder: “Preprocessed” contains old preprocessing testing
+Folder: “RGB” not working RGB pairing not working 
+Folder: “Test Dataset” contains 34 images of no crack
+Folder: “Test Filtered” preprocessed 34 images of crack, randomly selected
+Folder: “Test no crack” 10 no crack images
+Folder: “Test Predictions” Outputs the prediction masks, bounding boxes of cracks & report
