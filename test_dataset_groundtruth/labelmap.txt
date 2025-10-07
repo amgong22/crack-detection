@@ -1,0 +1,4 @@
+# label:color_rgb:parts:actions
+background:0,0,0::
+crack:51,221,255::
+no crack:26,16,38::
